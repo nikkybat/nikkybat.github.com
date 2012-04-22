@@ -1,0 +1,1 @@
+{% assign bootstrap_path = "/vendor/bootstrap/docs/assets" %}
