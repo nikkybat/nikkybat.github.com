@@ -1,5 +1,8 @@
 exclude:
   - .rbenv-gemset
+  - Gemfile
+  - Gemfile.lock
   - README.md
 
 title: nikkybat
+permalink: /:year/:month/:day
